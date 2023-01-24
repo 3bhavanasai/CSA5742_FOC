@@ -7,6 +7,12 @@
 
 <img width="122" alt="shell2" src="https://user-images.githubusercontent.com/113408005/214225751-41af7fc1-07ee-4fef-a3ff-3937f6e15e56.png">
 
+# area of shapes
+
+
+
+
+
 
 
 
