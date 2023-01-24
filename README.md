@@ -19,6 +19,11 @@
 
 <img width="212" alt="shell4" src="https://user-images.githubusercontent.com/113408005/214248223-0c0c98fd-3343-496f-8996-17d5c074f88e.png">
 
+# arithematic operations
+
+<img width="152" alt="shell35" src="https://user-images.githubusercontent.com/113408005/214308232-0e2015b2-4ac4-4ced-a177-4965d8630ce5.png">
+
+
 
 
 
