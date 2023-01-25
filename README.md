@@ -19,11 +19,22 @@
 
 <img width="212" alt="shell4" src="https://user-images.githubusercontent.com/113408005/214248223-0c0c98fd-3343-496f-8996-17d5c074f88e.png">
 
+# biggest of three numbers-shell
+
+<img width="155" alt="largest number" src="https://user-images.githubusercontent.com/113408005/214477767-2cd8e137-df89-4759-9061-744009f61d68.png">
+
+# mark list-shell
+
+<img width="200" alt="mark list" src="https://user-images.githubusercontent.com/113408005/214477837-c3241c01-290a-4ca5-83e6-b43598eddc51.png">
+
 # arithematic operations-shell
 
 <img width="152" alt="shell35" src="https://user-images.githubusercontent.com/113408005/214308232-0e2015b2-4ac4-4ced-a177-4965d8630ce5.png">
 
 # natural numbers-shell
+
+<img width="128" alt="natural numbers" src="https://user-images.githubusercontent.com/113408005/214477887-a48f682a-4f08-4624-87f3-6f3921c04065.png">
+
 
 
 
