@@ -43,7 +43,7 @@
 
 <img width="103" alt="image" src="https://user-images.githubusercontent.com/113408005/214481912-6540ec49-307d-434e-bc9c-1f1df6f86b96.png">
 
-# decimal to binary-shell
+
 
 
 
