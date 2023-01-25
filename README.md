@@ -39,6 +39,12 @@
 
 <img width="128" alt="natural numbers" src="https://user-images.githubusercontent.com/113408005/214477887-a48f682a-4f08-4624-87f3-6f3921c04065.png">
 
+# palindrome-shell
+
+<img width="103" alt="image" src="https://user-images.githubusercontent.com/113408005/214481912-6540ec49-307d-434e-bc9c-1f1df6f86b96.png">
+
+
+
 
 
 
