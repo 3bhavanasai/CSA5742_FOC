@@ -23,6 +23,10 @@
 
 <img width="152" alt="shell35" src="https://user-images.githubusercontent.com/113408005/214308232-0e2015b2-4ac4-4ced-a177-4965d8630ce5.png">
 
+# natural numbers-shell
+
+
+
 
 
 
