@@ -59,27 +59,27 @@
 
 <img width="94" alt="c-2" src="https://user-images.githubusercontent.com/113408005/214818909-c1b5f543-cbeb-43ee-9f2f-f113af6854a0.png">
 
-# c-o0dd number series
+# c-odd number series
 
 <img width="88" alt="c-3" src="https://user-images.githubusercontent.com/113408005/214818953-4de19f95-776f-49fb-92e2-b9a4feef7bb8.png">
 
-# fibonacci series
+# c-fibonacci series
 
 <img width="224" alt="c-4" src="https://user-images.githubusercontent.com/113408005/214819047-42ad2608-54ca-42f1-9a4f-d965a6add4b7.png">
 
-# summing up series
+# c-summing up series
 
 <img width="106" alt="c-5" src="https://user-images.githubusercontent.com/113408005/214819092-2ed22443-63c5-4248-934a-f948e5230fe6.png">
 
-# summping up even series
+# c-summing up even series
 
 <img width="114" alt="c-6" src="https://user-images.githubusercontent.com/113408005/214819122-2c0cd789-5682-472a-a700-7f03a69f9d9e.png">
 
-# summing up odd series
+# c-summing up odd series
 
 <img width="97" alt="c-7" src="https://user-images.githubusercontent.com/113408005/214819160-60c69310-60f7-40fc-b3db-704d87737ecf.png">
 
-# summing up 1-2+3-4+...N
+# c-summing up 1-2+3-4+...N
 
 
 # c-summing up square of odd numbers
