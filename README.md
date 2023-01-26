@@ -81,6 +81,7 @@
 
 # c-summing up 1-2+3-4+...N
 
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/113408005/214826662-e9fb381e-9773-4660-b0cd-cedeb24e47fc.png">
 
 # c-summing up square of odd numbers
 
