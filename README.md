@@ -1,57 +1,57 @@
 # CSA5742_FOC
-# square-shell
+# shell-square
 
 <img width="108" alt="shell1" src="https://user-images.githubusercontent.com/113408005/214225294-06102307-1605-43ec-b88e-f8cae95cab1c.png">
 
-# cube-shell
+# shell-cube
 
 <img width="122" alt="shell2" src="https://user-images.githubusercontent.com/113408005/214225751-41af7fc1-07ee-4fef-a3ff-3937f6e15e56.png">
 
-# area of shapes-shell
+# shell-area of shapes
 
 <img width="125" alt="shell3" src="https://user-images.githubusercontent.com/113408005/214248149-dbb03891-c32c-400f-be94-616420a9dd1c.png">
 
-# square using read-shell
+# shell-square using read
 
 <img width="108" alt="shell1" src="https://user-images.githubusercontent.com/113408005/214225294-06102307-1605-43ec-b88e-f8cae95cab1c.png">
 
-# swap numbers-shell
+# shell-swap numbers
 
 <img width="212" alt="shell4" src="https://user-images.githubusercontent.com/113408005/214248223-0c0c98fd-3343-496f-8996-17d5c074f88e.png">
 
-# biggest of three numbers-shell
+# shell-biggest of three numbers
 
 <img width="155" alt="largest number" src="https://user-images.githubusercontent.com/113408005/214477767-2cd8e137-df89-4759-9061-744009f61d68.png">
 
-# leap year-shell
+# shell-leap year
 
 <img width="170" alt="image" src="https://user-images.githubusercontent.com/113408005/214480091-edc2b74d-4902-4730-8be5-2a75ad2b9411.png">
 
-# mark list-shell
+# shell-mark list
 
 <img width="200" alt="mark list" src="https://user-images.githubusercontent.com/113408005/214477837-c3241c01-290a-4ca5-83e6-b43598eddc51.png">
 
-# arithematic operations-shell
+# shell-arithematic operations
 
 <img width="152" alt="shell35" src="https://user-images.githubusercontent.com/113408005/214308232-0e2015b2-4ac4-4ced-a177-4965d8630ce5.png">
 
-# natural numbers-shell
+# shell-natural numbers
 
 <img width="128" alt="natural numbers" src="https://user-images.githubusercontent.com/113408005/214477887-a48f682a-4f08-4624-87f3-6f3921c04065.png">
 
-# palindrome-shell
+# shell-palindrome
 
 <img width="103" alt="image" src="https://user-images.githubusercontent.com/113408005/214481912-6540ec49-307d-434e-bc9c-1f1df6f86b96.png">
 
-# quadratic equation-shell
+# shell-quadratic equation
 
-<img width="100" alt="quadratic" src="https://user-images.githubusercontent.com/113408005/215004156-88810c12-39a6-4c67-8111-9da74fa866fa.png">
 
-# decimal to binary-shell
+
+# shell-decimal to binary
 
 <img width="235" alt="binary" src="https://user-images.githubusercontent.com/113408005/214817226-0abdbc77-97e8-40c0-8fef-788bfa63786c.png">
 
-# factorial -shell
+# shell-factorial 
 
 <img width="126" alt="fact" src="https://user-images.githubusercontent.com/113408005/214817331-bf5d8658-280e-4984-8952-daab8cc49e98.png">
 
@@ -151,11 +151,11 @@
 
 <img width="203" alt="c-24" src="https://user-images.githubusercontent.com/113408005/215079217-7115ff91-bd8c-451b-b82f-c3c83a9b16fc.png">
 
-# print the digits of an integer
+# c-print the digits of an integer
 
 <img width="139" alt="c-14" src="https://user-images.githubusercontent.com/113408005/215079253-d0c9c5af-c7de-4413-b478-b435664ab470.png">
 
-# swapping two numbers
+# c-swapping two numbers
 
 <img width="134" alt="c-26" src="https://user-images.githubusercontent.com/113408005/215081131-3463466b-e45d-4d4d-a3cd-8b08ff066d91.png">
 
